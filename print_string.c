@@ -29,3 +29,4 @@ int print_string(va_list args)
 {
 	return (_puts(va_arg(args, char *)));
 }
+
