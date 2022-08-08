@@ -1,1 +1,1 @@
-This is a readme file describing the Printf team project task.
+This is a readme file describing the Printf team project created by: Oluwaseyi Idowu and Enyinnah Light. 
